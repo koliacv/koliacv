@@ -33,12 +33,7 @@ cat <<EOF > /var/www/html/index.html
 <html>
     <head>
     <title> DevOps GL BaseCamp </title>
-
 <body>
- <style>
-
-
-</style>
   <h1>
     Kolia Palahniuk
   </h1>     
